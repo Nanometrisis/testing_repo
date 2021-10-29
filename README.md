@@ -2,7 +2,9 @@
 <img src="images/NANOMETRISIS.jpg" />
 
 
-This repository contains our group's work testing enviroment. 
+This repository contains our group's work testing enviroment.
+
+We are testing git commands here. 
 
 ### Contributors ###
 

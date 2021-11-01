@@ -4,7 +4,7 @@
 
 This repository contains our group's work testing enviroment.
 
-We are testing git commands here.22 
+We are testing git commands here. 
 
 ### Contributors ###
 

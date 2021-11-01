@@ -12,4 +12,4 @@ We are testing git commands here.
 
 2. Vassilis Constantoudis
 
-3. 
+3. George Paapavieros
